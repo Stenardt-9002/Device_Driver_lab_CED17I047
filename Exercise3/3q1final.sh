@@ -1,5 +1,5 @@
 #!/bin/sh
-URL=https://www.geeksforgeeks.org/process-schedulers-in-operating-system
+URL=https://www.geeksforgeeks.org/process-schedulers-in-operating-system/
 
 
 FILE=check.html

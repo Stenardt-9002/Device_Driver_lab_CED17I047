@@ -21,11 +21,11 @@ echo "Average Marks = $avg"
       elif [ $avg -ge 75 -a $avg -lt 90 ]; then
       echo "Congrats you got First Class"
       elif [ $avg -ge 60 -a $avg -lt 75 ]; then
-      echo "Congrats you got First Class"
-      elif [ $avg -ge 50 -a $avg -lt 60 ]; then
       echo "You got second class"
+      elif [ $avg -ge 50 -a $avg -lt 60 ]; then
+      echo "You got Third class"
       elif [ $avg -ge 35 -a $avg -lt 50 ]; then
-      echo "You Got Third Class"
+      echo "You Got Fourth Class"
       fi
 else
 echo "Sorry You Failed"
