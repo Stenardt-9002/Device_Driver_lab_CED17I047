@@ -1,0 +1,29 @@
+Following deamon processes are listed for Ubuntu 20.04.2 LTS ,Linux 5.8.18-050818-generic 
+
+
+1. acpid : The acpid daemon provides intelligent power management on a system and allows to query battery and configuration status by supporting the Advanced Configuration and Power Interface (ACPI).
+	The ACPI (Advanced Configuration and Power Interface) specification allows the operating system to control the amount of power it provides to each device or peripheral attached to the system.
+
+2. crond : The scheduling daemon which allows system administrators to schedule and automate scripted tasks with ease and precision.
+
+3. dbus-daemon : D-Bus is a library that provides one-to-one communication between any two applications. dbus-daemon is an application that uses this library to implement a message bus daemon.
+ 
+4. httpd : Apache HyperText Transfer Protocol (HTTP) server program. It is designed to be run as a standalone daemon process. When used like this it will create a pool of child processes or threads to handle requests.
+
+5. uuidd : The  uuidd  daemon  is used by the UUID library to generate universally unique identifiers
+       (UUIDs), especially time-based UUIDs, in a secure and guaranteed-unique fashion. (UUID s a unique identifier used in partitions to uniquely identify partitions in Linux operating systems)
+
+
+
+
+6. ntpd : The ntpd program is an operating system daemon which sets and maintains the system time of day in synchronism with Internet standard time servers
+
+7. sendmail : This executes Mail Server Daemon which runs as a daemon in the background, listening for incoming mail from other machines. Sendmail can handle both incoming and outgoing mail.
+
+8. sshd : sshd (OpenSSH Daemon) is the daemon program for ssh . sshd listens for connections from clients. The forked daemons handle key exchange, encryption, authentication, command execution, and data exchange.
+
+9. systemd : systemd is the first daemon to start during booting and the last daemon to terminate during shutdown. The systemd daemon serves as the root of the user space's process tree. The first process (PID 1) has a special role on Unix systems, as it replaces the parent of a process when the original parent terminates.
+
+10. inetd : (internet service daemon) is a super-server daemon on many Unix systems that provides Internet services . 
+
+
