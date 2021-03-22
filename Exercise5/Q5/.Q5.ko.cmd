@@ -1,0 +1,1 @@
+cmd_/home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q5/Q5.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q5/Q5.ko /home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q5/Q5.o /home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q5/Q5.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q6/modules.order := {   echo /home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q6/Q3.ko; :; } | awk '!x[$$0]++' - > /home/r7-mini-workstation/Desktop/Sem8/DD/lab2/Q6/modules.order
