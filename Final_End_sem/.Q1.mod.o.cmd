@@ -1,8 +1,10 @@
-cmd_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o := gcc -Wp,-MMD,/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/.Q9.o.d  -nostdinc -isystem /usr/lib/gcc/x86_64-linux-gnu/9/include -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/kconfig.h -include ./include/linux/compiler_types.h -D__KERNEL__ -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Wno-format-security -std=gnu89 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -DCONFIG_X86_X32_ABI -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -fno-jump-tables -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -Wno-address-of-packed-member -O2 --param=allow-store-data-races=0 -Wframe-larger-than=1024 -fstack-protector-strong -Wno-unused-but-set-variable -Wimplicit-fallthrough -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-var-tracking-assignments -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wno-stringop-truncation -Wno-array-bounds -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -fmacro-prefix-map=./= -fcf-protection=none -Wno-packed-not-aligned  -DMODULE  -DKBUILD_BASENAME='"Q9"' -DKBUILD_MODNAME='"Q9"' -c -o /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.c
+cmd_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o := gcc -Wp,-MMD,/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/.Q1.mod.o.d  -nostdinc -isystem /usr/lib/gcc/x86_64-linux-gnu/9/include -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/kconfig.h -include ./include/linux/compiler_types.h -D__KERNEL__ -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Wno-format-security -std=gnu89 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -DCONFIG_X86_X32_ABI -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -fno-jump-tables -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -Wno-address-of-packed-member -O2 --param=allow-store-data-races=0 -Wframe-larger-than=1024 -fstack-protector-strong -Wno-unused-but-set-variable -Wimplicit-fallthrough -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-var-tracking-assignments -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wno-stringop-truncation -Wno-array-bounds -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init -fmacro-prefix-map=./= -fcf-protection=none -Wno-packed-not-aligned  -DMODULE  -DKBUILD_BASENAME='"Q1.mod"' -DKBUILD_MODNAME='"Q1"' -c -o /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.c
 
-source_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o := /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.c
+source_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o := /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.c
 
-deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o := \
+deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o := \
+    $(wildcard include/config/module/unload.h) \
+    $(wildcard include/config/retpoline.h) \
   include/linux/kconfig.h \
     $(wildcard include/config/cc/version/text.h) \
     $(wildcard include/config/cpu/big/endian.h) \
@@ -14,7 +16,6 @@ deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/E
     $(wildcard include/config/cc/has/asm/inline.h) \
   include/linux/compiler_attributes.h \
   include/linux/compiler-gcc.h \
-    $(wildcard include/config/retpoline.h) \
     $(wildcard include/config/arch/use/builtin/bswap.h) \
   include/linux/module.h \
     $(wildcard include/config/modules.h) \
@@ -34,7 +35,6 @@ deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/E
     $(wildcard include/config/event/tracing.h) \
     $(wildcard include/config/ftrace/mcount/record.h) \
     $(wildcard include/config/kprobes.h) \
-    $(wildcard include/config/module/unload.h) \
     $(wildcard include/config/constructors.h) \
     $(wildcard include/config/function/error/injection.h) \
   include/linux/list.h \
@@ -659,11 +659,36 @@ deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/E
     $(wildcard include/config/modules/use/elf/rel.h) \
     $(wildcard include/config/modules/use/elf/rela.h) \
   arch/x86/include/asm/orc_types.h \
-  include/linux/keyboard.h \
-  include/uapi/linux/keyboard.h \
-  include/linux/semaphore.h \
-  /home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/kbduskeymap.h \
+  include/linux/build-salt.h \
+    $(wildcard include/config/build/salt.h) \
+  include/linux/elfnote.h \
+  include/linux/vermagic.h \
+  include/generated/utsrelease.h \
+  arch/x86/include/asm/vermagic.h \
+    $(wildcard include/config/m486sx.h) \
+    $(wildcard include/config/m486.h) \
+    $(wildcard include/config/m586.h) \
+    $(wildcard include/config/m586tsc.h) \
+    $(wildcard include/config/m586mmx.h) \
+    $(wildcard include/config/mcore2.h) \
+    $(wildcard include/config/m686.h) \
+    $(wildcard include/config/mpentiumii.h) \
+    $(wildcard include/config/mpentiumiii.h) \
+    $(wildcard include/config/mpentiumm.h) \
+    $(wildcard include/config/mpentium4.h) \
+    $(wildcard include/config/mk6.h) \
+    $(wildcard include/config/mk8.h) \
+    $(wildcard include/config/melan.h) \
+    $(wildcard include/config/mcrusoe.h) \
+    $(wildcard include/config/mefficeon.h) \
+    $(wildcard include/config/mwinchipc6.h) \
+    $(wildcard include/config/mwinchip3d.h) \
+    $(wildcard include/config/mcyrixiii.h) \
+    $(wildcard include/config/mviac3/2.h) \
+    $(wildcard include/config/mviac7.h) \
+    $(wildcard include/config/mgeodegx1.h) \
+    $(wildcard include/config/mgeode/lx.h) \
 
-/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o: $(deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o)
+/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o: $(deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o)
 
-$(deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Exercise9/Q9.o):
+$(deps_/home/r7-mini-workstation/Desktop/stuff/temp2/Device_Driver_lab_CED17I047/Final_End_sem2/Q1.mod.o):
